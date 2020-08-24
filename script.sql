@@ -1,0 +1,13 @@
+create table knjizice (knjiga_id INT, naslov VARCHAR(100) , autor VARCHAR(100));
+insert into knjizice(knjiga_id, naslov, autor) values('1', 'Uspavanka', 'Leila Sliman');
+insert into knjizice(knjiga_id, naslov, autor) values('2', 'Kronosova zetva', 'Mojca Kumerdej');
+insert into knjizice(knjiga_id, naslov, autor) values('3', 'Krivo je jugo', 'Natasa Draginic');
+insert into knjizice(knjiga_id, naslov, autor) values('4', 'Zene koje kupuju cvijece', 'Vanessa Montfort');
+insert into knjizice(knjiga_id, naslov, autor) values('5', 'Jakovljeve ljestve', 'Ljudmia Ulicka');
+insert into knjizice(knjiga_id, naslov, autor) values('6', 'Nit koja nas veze', 'Samanta Schweblin');
+insert into knjizice(knjiga_id, naslov, autor) values('7', 'knjizice Jakubove', 'Olga Tokarczuk');
+insert into knjizice(knjiga_id, naslov, autor) values('8', 'Lisica', 'Dubravka Ugresic');
+insert into knjizice(knjiga_id, naslov, autor) values('9', 'Na Drini cuprija', 'Ivo Andric');
+insert into knjizice(knjiga_id, naslov, autor) values('10', 'Prokleta avlija', 'Ivo Andric');
+insert into knjizice(knjiga_id, naslov, autor) values('11', 'Kolajna', 'Tin Ujevic');
+insert into knjizice(knjiga_id, naslov, autor) values('12', 'Odlazak', 'Tin Ujevic');
